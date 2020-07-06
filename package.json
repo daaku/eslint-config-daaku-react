@@ -7,7 +7,7 @@
   "author": "Naitik Shah <n@daaku.org>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^5.16",
+    "eslint": "^7.4",
     "eslint-plugin-react": "^7.14"
   }
 }
