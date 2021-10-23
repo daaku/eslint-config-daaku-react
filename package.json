@@ -3,11 +3,14 @@
   "version": "1.0.0",
   "description": "eslint config for daaku-react",
   "repository": "git@github.com:daaku/eslint-config-daaku-react",
-  "keywords": ["eslint", "eslintconfig"],
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
   "author": "Naitik Shah <n@daaku.org>",
   "license": "MIT",
   "dependencies": {
-    "eslint": "^7.27",
-    "eslint-plugin-react": "^7.14"
+    "eslint": "^8.1.0",
+    "eslint-plugin-react": "^7.26.1"
   }
 }
